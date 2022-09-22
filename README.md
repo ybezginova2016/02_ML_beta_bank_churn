@@ -1,0 +1,2 @@
+# beta_bank_churn
+Beta-Bank clients began to terminate bank terms every month and stopped using the bank’s services. Banking management wants to figure out whether it is cheaper to keep current customers or to attract new ones.  The task is to build a model in order to predict whether the client will leave the bank in the near future or not. A historical data about customer behavior and termination of agreements with the bank provided for analysis and modelling.
